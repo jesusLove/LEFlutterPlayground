@@ -1,4 +1,4 @@
-package com.lqq.flutterui;
+package com.lqq.flutteranimationtutorial;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
