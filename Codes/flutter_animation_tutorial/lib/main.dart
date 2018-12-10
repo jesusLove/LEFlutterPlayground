@@ -44,7 +44,7 @@ class HomeScreen extends StatelessWidget {
               );
             },
             title: new Text('AnimationList'),
-            subtitle: new Text('补间动画的基本使用示例'),
+            subtitle: new Text('示例代码'),
           ),
         ],
       ),
